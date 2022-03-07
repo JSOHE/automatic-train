@@ -4,7 +4,7 @@
   <img src="./Imagen1.jpeg">
 
 
-# Data Product Architecture Team 1: Bookish Journey
+# Data Product Architecture Team 1: Automatic-Train
 
 | Name                           | Email                   | CU     | Github Handler |
 |:------------------------------:|:-----------------------:|:------:|:--------------:|
